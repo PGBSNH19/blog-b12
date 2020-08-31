@@ -1,8 +1,8 @@
-# Blogg för XX
+# Blogg för B-12 (Fredrik O och André M)
 
 Lektion:
 
-[01: beskrivning](00.md)
+[01: Uppstart - Cloud baserna och internet](00.md)
 
 02: beskrivning
 
