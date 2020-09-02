@@ -4,7 +4,7 @@ Lektion:
 
 [01: Uppstart - Cloud baserna och internet - Skapat första Webservern](00.md)
 
-02: beskrivning
+[02: Skapa virtuell server och få den att köra Hello World](01.md)
 
 03: beskrivning
 
