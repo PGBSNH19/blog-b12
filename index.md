@@ -12,7 +12,7 @@ Lektion:
 
 [05: Databas i molnet](05.md)
 
-06: beskrivning
+[06: Molnbaserade Applikationer](06.md)
 
 07: beskrivning
 
