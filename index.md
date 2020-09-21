@@ -14,7 +14,7 @@ Lektion:
 
 [06: Molnbaserade Applikationer](06.md)
 
-07: beskrivning
+[07: Private Link](07.md)
 
 08: beskrivning
 
