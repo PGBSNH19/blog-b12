@@ -16,7 +16,7 @@ Lektion:
 
 [07: Private Link](07.md)
 
-08: beskrivning
+[08: Blob Storage](08.md)
 
 09: beskrivning
 
