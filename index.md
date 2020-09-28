@@ -18,7 +18,7 @@ Lektion:
 
 [08: Blob Storage](08.md)
 
-09: beskrivning
+[09: Logging](09.md)
 
 10: beskrivning
 
