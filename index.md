@@ -20,8 +20,6 @@ Lektion:
 
 [09: Logging](09.md)
 
-[10: Skalning upp och ut](09.md)
+[10: Skalning upp och ut](10.md)
 
-11: beskrivning
-
-12: beskrivning
+[11: Moln säkerhet](11.md)
