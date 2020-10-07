@@ -20,7 +20,7 @@ Lektion:
 
 [09: Logging](09.md)
 
-10: beskrivning
+[10: Skalning upp och ut](09.md)
 
 11: beskrivning
 
